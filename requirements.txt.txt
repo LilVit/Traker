@@ -1,0 +1,4 @@
+opencv-contrib-python
+matplotlib
+pandas
+scipy
